@@ -2,7 +2,7 @@ package com.mavenproject;
 
 
 public class App {
-
+invalid
     public static void main(final String[] args) {
         int i = 1;
         int j = 1;
